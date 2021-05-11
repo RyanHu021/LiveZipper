@@ -3,7 +3,8 @@
 ## How to use
  Windows:
  - Edit `PYTHON_PATH` in `livezipper.bat` to point to your Python interpreter (e.g. `C:\Users\ryanh\AppData\Local\Programs\Python\Python39\python`)
- - Run `livezipper.bat`
+ - Run `livezipper.bat` 
+ 
  Mac/Linux:
  - Edit `PYTHON_PATH` in `livezipper.sh` to point to your Python interpreter (e.g. `/usr/bin/python`)
  - Run `livezipper.sh`
