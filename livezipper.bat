@@ -1,4 +1,4 @@
 @echo off
-set /p path="Enter file path: "
-"C:\Users\ryanh\AppData\Local\Programs\Python\Python39\python" livezipper.py "%path%"
+set /p path="Enter Ableton Live set path: "
+"PYTHON_PATH" livezipper.py "%path%"
 pause
